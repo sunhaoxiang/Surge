@@ -1,8 +1,0 @@
-#!name=屏蔽 YouTube UDP
-#!desc=屏蔽 YouTube UDP
-
-[Rule]
-AND, ((PROTOCOL, UDP), (DOMAIN-SUFFIX, googlevideo.com)), REJECT-NO-DROP
-
-[MITM]
-hostname = %APPEND% *.googlevideo.com
