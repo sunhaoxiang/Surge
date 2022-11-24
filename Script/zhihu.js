@@ -1,4 +1,4 @@
-const scriptName = "知乎Web去广告";
+const scriptName = "知乎Web端去广告";
 let magicJS = MagicJS(scriptName, "INFO");
 
 (() => {
@@ -34,7 +34,7 @@ function removeRecommendAds() {
     obj.data = obj.data.filter((item) => item.type !== "feed_advert");
     response = { body: JSON.stringify(obj) };
   } catch (err) {
-    magicJS.logError(`知乎Web去广告出现异常：${err}`);
+    magicJS.logError(`知乎Web端去广告出现异常：${err}`);
   }
   return response;
 }
