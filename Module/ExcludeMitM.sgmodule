@@ -1,2 +1,5 @@
+#!name=排除主机名 MitM 主机名
+#!desc=排除主机名 MitM 主机名
+
 [MITM]
-hostname = %APPEND% -pan.baidu.com
+hostname = %INSERT% -pan.baidu.com
