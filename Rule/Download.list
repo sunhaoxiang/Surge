@@ -1,8 +1,5 @@
 # > Mac Download
-PROCESS-NAME,aDrive
-PROCESS-NAME,aDrive Helper (Renderer)
 PROCESS-NAME,aria2c
-PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,bitcomet
 PROCESS-NAME,Downie 4
 PROCESS-NAME,downloadservice
