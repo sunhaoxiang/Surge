@@ -1,0 +1,8 @@
+#!name=微信公众号去广告
+#!desc=微信公众号去广告
+
+[URL Rewrite]
+"^https?:\/\/mp\.weixin\.qq\.com\/(s|mp)\/(ad_|advertisement|getappmsgad|report|appmsgreport|appmsgpicreport)" - reject
+
+[MITM]
+hostname = %APPEND% mp.weixin.qq.com
