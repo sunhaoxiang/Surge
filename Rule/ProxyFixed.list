@@ -1,6 +1,12 @@
 # > Sub-Store
 DOMAIN-SUFFIX,vercel.app
 
-#ENET
+# > ENET
 DOMAIN-SUFFIX,easy2022.com
 DOMAIN-SUFFIX,egeturl.com
+
+# > APTV
+DOMAIN,stream01.willfonk.com
+IP-CIDR,220.134.196.147/32
+IP-CIDR,198.16.64.10/32
+IP-CIDR,50.7.220.74/32
