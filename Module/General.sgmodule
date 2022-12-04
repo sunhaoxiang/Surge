@@ -1,5 +1,5 @@
-#!name=跳过 App 代理检测
-#!desc=跳过部分 App 的代理检测
+#!name=General
+#!desc=General
 
 [General]
 # > 跳过代理
