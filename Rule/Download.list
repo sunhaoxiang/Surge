@@ -1,7 +1,6 @@
 # > Mac Download
 PROCESS-NAME,aria2c
 PROCESS-NAME,bitcomet
-PROCESS-NAME,Downie 4
 PROCESS-NAME,downloadservice
 PROCESS-NAME,fdm
 PROCESS-NAME,folx
