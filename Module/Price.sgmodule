@@ -1,0 +1,11 @@
+#!name=比价
+#!desc=京东、淘宝历史价格
+
+[Script]
+# > 京东比价
+京东比价 = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js,script-update-interval=0,pattern=https://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig),type=http-response
+# > 淘宝比价
+淘宝比价 = requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,type=http-response,pattern=^https?://amdc\.m\.taobao\.com/amdc/mobileDispatch
+淘宝比价 = requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,type=http-response,pattern=^https://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail
+[MITM]
+hostname = api.m.jd.com, amdc.m.taobao.com, trade-acs.m.taobao.com
