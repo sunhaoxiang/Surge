@@ -13,3 +13,6 @@ DOMAIN,stream01.willfonk.com
 IP-CIDR,220.134.196.147/32
 IP-CIDR,198.16.64.10/32
 IP-CIDR,50.7.220.74/32
+
+# > OpenAI
+DOMAIN-SUFFIX,openai.com
