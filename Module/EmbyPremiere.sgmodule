@@ -2,7 +2,7 @@
 #!desc=Emby Premiere
 
 [Script]
-EmbyPremiere = type=http-response,pattern=^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey),script-path=https://raw.githubusercontent.com/qiangxinglin/Emby/main/scripts/emby.js,max-size=131072,requires-body=true,timeout=10,debug=false,enable=true
+unlock_emby = type=http-response,script-path=https://github.com/eggleader-zhang/Unlock-Emby-Surge/raw/main/unlock-emby-surge.js,pattern=^http(s?):\/\/(www\.|)mb3admin\.com\/.*$,max-size=131072,requires-body=true,timeout=10,debug=false,enable=true
 
 [MITM]
-hostname = %APPEND% mb3admin.com
+hostname = %APPEND% www.mb3admin.com, mb3admin.com
