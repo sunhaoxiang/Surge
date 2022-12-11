@@ -16,3 +16,7 @@ IP-CIDR,50.7.220.74/32
 
 # > OpenAI
 DOMAIN-SUFFIX,openai.com
+
+# > Apple Developer
+DOMAIN,developer.apple.com
+DOMAIN,devstreaming-cdn.apple.com
