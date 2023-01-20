@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,openai.com
 # > Apple Developer
 DOMAIN,developer.apple.com
 DOMAIN,devstreaming-cdn.apple.com
+
+# > Typing Club
+DOMAIN-SUFFIX,typingclub.com
