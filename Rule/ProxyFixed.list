@@ -23,3 +23,6 @@ DOMAIN,devstreaming-cdn.apple.com
 
 # > Typing Club
 DOMAIN-SUFFIX,typingclub.com
+
+# > qBittorrent
+DOMAIN-SUFFIX,qbittorrent.org
