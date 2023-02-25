@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,easy2022.com
 DOMAIN-SUFFIX,egeturl.com
 
+# > Jetbrains
+DOMAIN-SUFFIX,jetbrains.com
+
 # > APTV
 DOMAIN,stream01.willfonk.com
 IP-CIDR,220.134.196.147/32
