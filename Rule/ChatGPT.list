@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,dentrust.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
+
+# > Claude2
+DOMAIN-SUFFIX,anthropic.com
