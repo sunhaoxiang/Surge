@@ -7,5 +7,6 @@ DOMAIN-SUFFIX,sentry.io
 
 # > Claude2
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,hsforms.com
 DOMAIN-SUFFIX,anthropic.com
