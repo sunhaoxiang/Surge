@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,themoviedb.org
 
 # > ByteDance
 DOMAIN-SUFFIX,byteimg.com
+
+# > Bilibili
+DOMAIN-SUFFIX,bilibili.com
