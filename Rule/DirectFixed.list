@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,bytegoofy.com
 
 # > Bilibili
 DOMAIN-SUFFIX,bilibili.com
+
+# > Alipan
+DOMAIN,px.effirst.com
