@@ -15,8 +15,5 @@ DOMAIN,px.effirst.com
 # > Aliyun
 DOMAIN-SUFFIX,aliyuncs.com
 
-# > wwads
-DOMAIN,cdn.wwads.cn
-
 # > Vite
 DOMAIN,cn.vite.dev
