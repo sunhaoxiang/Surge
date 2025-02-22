@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 # > Vite
 DOMAIN,cn.vite.dev
+
+# > CNZZ
+DOMAIN-SUFFIX,cnzz.com
