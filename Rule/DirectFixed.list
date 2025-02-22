@@ -20,3 +20,6 @@ DOMAIN,cn.vite.dev
 
 # > CNZZ
 DOMAIN-SUFFIX,cnzz.com
+
+# > ahooks
+DOMAIN,ahooks.js.org
