@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,cnzz.com
 
 # > ahooks
 DOMAIN,ahooks.js.org
+
+# > Baidu
+DOMAIN,tongji.baidu.com
