@@ -2,4 +2,4 @@
 #!desc=排除 MitM 主机名
 
 [MITM]
-hostname = %INSERT% -pan.baidu.com
+hostname = %INSERT% -pan.baidu.com, -api.caiyunapp.com
