@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,qbittorrent.org
 
 DOMAIN,m.e9rfm3l5.com
 DOMAIN,m.ibfx.ai
+
+# > Edgex
+DOMAIN-SUFFIX,edgex.exchange
